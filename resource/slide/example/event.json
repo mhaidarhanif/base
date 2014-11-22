@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "ical": "http://www.w3.org/2002/12/cal/ical#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "ical:dtstart": {
+      "@type": "xsd:dateTime"
+    }
+  },
+  "ical:summary": "NxtCon 2014",
+  "ical:description": "A tech conference that unites entrepreneur, investor, company, and media",
+  "ical:location": "Ballroom Balairiung Soesilo Soedarman, Gedung Sapta Pesona, Jl. Medan Merdeka Barat No. 17, Jakarta 10110, Indonesia",
+  "ical:dtstart": "2014-05-07T09:00Z",
+  "ical:dtend": "2014-05-08T19:00Z"
+}
