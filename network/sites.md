@@ -126,6 +126,7 @@ Foursquare
 About.me
 LinkedIn
   Publishing
+SkillPages
 
 Behance
 Dribbble

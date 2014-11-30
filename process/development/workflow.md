@@ -56,6 +56,7 @@ Document
   Inline
 Instrument
   Logging
+    Keep a Changelog
   Reporting
 Log exception
   Centralized store
