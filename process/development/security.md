@@ -22,6 +22,11 @@ https://alexcabal.com/creating-the-perfect-gpg-keypair
 ## Text
 
 SSL Certification
+  Boost SEO
+  Improve analytics
+  Control your content
+  Protect your users
+  Enable new web technologies
 Trusted Logo
 Terms of Service
   Class A

@@ -6,13 +6,15 @@ Design Tools
 Paper
 ConceptCodify
 
-## Prototyping
-
-Pixate | Flinto
-
 ## Management
 
 Marvel | InVision
+
+## Prototyping
+
+Atomic | RelativeWave Form | Framer
+Quartz Composer | Origami
+Pixate
 
 ## Versioning
 
@@ -37,6 +39,11 @@ GIMP
 Pixlr
 Aviary
 
+## Color
+
+Gpick
+Gcolor2
+
 ## Presentation
 
 Reveal.js
@@ -52,7 +59,6 @@ Placeit
 ## Mockup
 
 Moqups
-Framer
 
 ## Icon
 

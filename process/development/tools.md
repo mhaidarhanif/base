@@ -64,6 +64,7 @@ Version Control
 
 Git repository
   Public: GitHub
+    Prose
   Private: GitLab
 Extension
   Git Flow
@@ -220,26 +221,21 @@ Delivery
 
 ### Code Coverage
 
-Wercker
-drone
-Travis CI
-Magnum CI
-Inch CI
 
 ### Code Review
 
 PullReview
 
-### Continuous Integration
+### Continuous Integration/Delivery/Deployment
 
-Codeship
+Codeship | drone | Travis CI
+Ship.io
 
-### Continuous Deployment
-
-VersionEye
+Wercker | Magnum CI
 
 ### Continuous Update
 
+VersionEye
 Dill.js
 
 ### VPS
@@ -359,19 +355,20 @@ MapReduce
 Cloud Dataflow
 
 
-Utility
--------
+Utility/DevOps
+--------------
 
 ### Performance/Monitoring/Alerting
 
-New Relic
-Sensu
+New Relic | Sensu | Crittercism
 PagerDuty
 
 Applause
 
 Server Density
 Nagios
+
+Runbook
 
 ### TCP/HTTP Load Balancer
 

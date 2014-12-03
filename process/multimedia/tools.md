@@ -4,6 +4,11 @@ Multimedia Tools
 Software
 --------
 
+### Storage
+
+Dropbox
+Tresorit | Wuala | SpiderOak
+
 ### Conversion
 
 CloudConvert
@@ -19,6 +24,7 @@ ffmpeg
 ### Screencast
 
 Kazam
+Asciinema
 
 Hardware
 --------

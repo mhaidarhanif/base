@@ -23,102 +23,104 @@ man·i·fes·to: a public declaration of policy and aims, especially issued for 
 [Muut Manifesto](https://muut.com/manifesto)
 [Open Source Way](https://opensource.com/open-source-way)
 
+*  *  *
+
 Main Elements
 -------------
 
 ### Apply
 
-- Brand
-- Identity
++ Brand
++ Identity
 
 ### Abbreviated
 
-- Succinct way to learn and use
++ Succinct way to learn and use
 
 ### Attractive
 
-- Impressive introduction
-- Appealing yet functional
-- Follow and create the trend
++ Impressive introduction
++ Appealing yet functional
++ Follow and create the trend
 
 ### Authentic
 
-- Original ideas
-- Adapted patterns
-- Valid implementation
++ Original ideas
++ Adapted patterns
++ Valid implementation
 
 ### Addictive
 
-- Habbit-forming
++ Habbit-forming
 
 ### Agreeable
 
-- Seamless system
-- Smooth flow
++ Seamless system
++ Smooth flow
 
 ### Available
 
-- Hierarchy match of needs
-- Useful application
++ Hierarchy match of needs
++ Useful application
 
 ### Assertive
 
-- Firm explanation
-- Strong information
-- Expressive sentence
++ Firm explanation
++ Strong information
++ Expressive sentence
 
 ### Adaptive
 
-- Proper ever-changing adjustment
-- Future proof
-- Adapt to user's needs
++ Proper ever-changing adjustment
++ Future proof
++ Adapt to user's needs
 
 ### Accommodation
 
-- Simple yet clear
-- Limit distractions
-- Helpful info along with elements
++ Simple yet clear
++ Limit distractions
++ Helpful info along with elements
 
 ### Arrange
 
-- Appropriate constraint
++ Appropriate constraint
 
 ### Aware
 
-- Instruction
-  - Provide cue and signpost
++ Instruction
+  + Provide cue and signpost
 
 ### Accessible
 
-- Reversible action
++ Reversible action
 
 ### Alternative
 
-- Various usage
++ Various usage
 
 ### Automatic
 
-- Sense feedback
-- Less steps
-- Action link (mail, tel)
++ Sense feedback
++ Less steps
++ Action link (mail, tel)
 
 ### Attribution
 
-- Following trend
++ Following trend
 
 ### Agnostic
 
-- Human over graphics
++ Human over graphics
 
 ### Attention
 
-- Content focused
-- Context digestible
-- Meaningful display
++ Content focused
++ Context digestible
++ Meaningful display
 
 ### Amuse
 
-- Fun elements
++ Fun elements
 
 Characteristic
 --------------
@@ -170,7 +172,7 @@ Habitable | Hooked
   Reward
   Investment
 Human
-  Users first
+  Customers and users first
 Innovative
 Interoperable
 Light
@@ -229,6 +231,7 @@ Developer
 Designer
 Business
 
+*  *  *
 
 Product Psychology
 ------------------
@@ -237,5 +240,17 @@ Product Psychology
 2. Behavior Can Be Designed
 3. Product Psychology Can Be Used for Good or Evil
 
+*  *  *
+
+Name
+----
+
++ Descriptive
++ Readable
++ Consistent
++ Contextual
++ Future-friendly
++ Extensible
++ Reusable
 
 

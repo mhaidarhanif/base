@@ -6,7 +6,7 @@ Growth Engine & Agile Business Model
 Engine
 ------
 
-### Funnel
+### Funnel System
 
 Acquisition
 Activation

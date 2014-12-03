@@ -9,9 +9,7 @@ http://inspiredprocess.quora.com/Understanding-the-Theory-of-Knowledge-Managemen
 Microlearning
 https://en.wikipedia.org/wiki/Microlearning
 
-
 The Architecture of Open Source Applications
-
 
 http://jojogiuffra.com/minimum-viable-product/
 http://jojogiuffra.com/how-to-develop-a-success-startup-marketing-plan/
@@ -32,6 +30,13 @@ Chris Lewis
 Appress
 
 Functional Reactive Programming
+
+Linked Data: Structured data on the Web
+David Wood
+Marsha Zaidman
+Luke Ruth
+Michael Hausenblas
+Manning
 
 The Art of Scalability
 Martin L. Abbott

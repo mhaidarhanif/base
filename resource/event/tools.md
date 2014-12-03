@@ -1,6 +1,6 @@
 Event Tools
 ===========
 
-[Tito](https://ti.to)
-
+Eventjoy | [Tito](https://ti.to)
+Zoomph
 
