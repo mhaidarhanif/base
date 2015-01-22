@@ -19,6 +19,8 @@ Segment
 
 ### Practical
 
+[thoughtbot playbook]
+[thoughtbot guides](https://github.com/thoughtbot/guides): Guide for programming in style
 [Ghost Discussion: Improving our development process](https://github.com/TryGhost/Ghost/issues/4396)
 
 
@@ -86,7 +88,8 @@ Git
 
 ### Connection
 
-SSH
+SSH | SFTP
+FTP
 
 ### Code License
 

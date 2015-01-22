@@ -8,7 +8,7 @@ ConceptCodify
 
 ## Management
 
-Marvel | InVision
+InVision | Marvel
 
 ## Prototyping
 
@@ -28,10 +28,6 @@ Inkscape | Sketch
 
 Responsive
 Animated
-
-Snap.svg
-  http://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg
-ZorroSVG
 
 ## Bitmap
 

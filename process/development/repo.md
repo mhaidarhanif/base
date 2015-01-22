@@ -7,6 +7,11 @@ Items
 -----
 
 README.md
+  Name
+  Audience Target
+  How to install
+  How to use
+  How to test
 LICENSE.md
 CONTRIBUTING.md
 

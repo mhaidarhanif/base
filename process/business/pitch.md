@@ -56,7 +56,7 @@ Milestones, Current and Next Status: Product, Team, Marketing, Sales, Burn Rate,
 Conclusion, Inspiration, Vision, Summary
 Financing: Dates, Amounts, Sources of Money
 
-### Effective
+### Effective and Efficient
 
 Introduction: Who are you and why you're here? Keep it short and sweet
 Team: Show the people behind the idea and briefly describe their role

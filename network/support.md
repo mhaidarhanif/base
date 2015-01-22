@@ -1,6 +1,6 @@
 Community Support
 =================
 
-Open Source Initiative
-Future Friendly Web
++ Open Source Initiative
++ Future Friendly Web
 

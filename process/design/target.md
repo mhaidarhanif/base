@@ -64,6 +64,8 @@ Leveraging user preferences
 
 ### Accessibility
 
+Web Accessibility Initiative (WAI)
+
 Impairment
   Visual
   Auditory

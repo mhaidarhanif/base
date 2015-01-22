@@ -20,8 +20,15 @@ phi·los·o·phy (noun): a particular system, theory, or attitude held by a pers
 
 man·i·fes·to: a public declaration of policy and aims, especially issued for community or political agreement.
 
-[Muut Manifesto](https://muut.com/manifesto)
+[Agile Manifesto | Manifesto for Agile Software Development](http://agilemanifesto.org)
+[The Zen of Python | Python Philosophy](https://www.python.org/doc/humor/#the-zen-of-python)
 [Open Source Way](https://opensource.com/open-source-way)
+[The Reactive Manifesto](http://reactivemanifesto.org)
+[The GNU Manifesto](http://www.gnu.org/gnu/manifesto.html)
+[iFixit Self-Repair Manifesto](https://www.ifixit.com/Manifesto)
+[The Hack Day Manifesto](http://hackdaymanifesto.com)
+[Muut Manifesto](https://muut.com/manifesto)
+[Pixelapse Open Manifesto](https://www.pixelapse.com/open)
 
 *  *  *
 
@@ -122,15 +129,25 @@ Main Elements
 
 + Fun elements
 
+### Avant-garde
+
++ Breaking the status quo
+
 Characteristic
 --------------
+
+### Direction
+
+Simplify & Complexify
 
 ### Main
 
 Agile
 Flexible
+Modular
 Usable
 Scalable
+Simple
 Stable
 
 ### All
@@ -146,7 +163,10 @@ Delight
   Clean
   Clear
 Discovery
+Disruptive
 Connected
+  Online
+  Offline
 Consistent
 Customizable
 Decentralized

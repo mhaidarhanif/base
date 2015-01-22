@@ -29,7 +29,7 @@ CoffeeScript
 
 ### Platform
 
-NodeJS
+NodeJS | JXcore | JXP
 
 ### Platform Manager
 
@@ -37,12 +37,8 @@ nvm
 
 ### Package Manager
 
-npm
-Duo
-Bower
-Component
-
-browserify
+npm | browserify
+Duo | Bower | Component | Jam
 
 ### Modules
 
@@ -70,6 +66,7 @@ Gulp | Grunt | Broccoli | Brunch | Headstart | Gobble
   svgstore
   uglify
   uncss
+  accord
 
 Pants
 Make
@@ -91,6 +88,10 @@ pip
 
 Fabric
 
+### Framework
+
+Kivy
+
 Ruby
 ----
 
@@ -103,6 +104,10 @@ bundler
 ### Build System
 
 rake
+
+### Framwork
+
+RubyMotion
 
 Haxe
 ----
@@ -156,7 +161,6 @@ Parker
 [How we do CSS at Ghost - Ghost Development Blog](http://dev.ghost.org/css-at-ghost/)
 [CSS at Lonely Planet - Ian Feather](http://ianfeather.co.uk/css-at-lonely-planet/)
 
-
 Library
 -------
 
@@ -192,16 +196,19 @@ GenieJS
 Picturefill | respimage
 Imager.js
 
-FastClick
-InstantClick
+FastClick | InstantClick
 
 Formstone
 
+Combokeys
 key.js | Keyboard shorcuts
+
+Offline.js
 
 ### Plugin
 
 Skipto
+Eager
 
 ### Font
 
@@ -219,6 +226,7 @@ Meteor
   Kadira
 DerbyJS
 MEAN
+WAMP/Autobahn/Crossbar.io
 
 Ionic
 Parse
@@ -251,10 +259,18 @@ Adobe PhoneGap
   Ratchet
   Topcoat
 
+### Image/SVG
+
+Snap.svg
+  http://tympanus.net/codrops/2013/11/05/animated-svg-icons-with-snap-svg
+ZorroSVG
+deSVG
+
 ### Animation
 
 Collide
 Pop
+snabbt.js
 
 ### Front Style
 

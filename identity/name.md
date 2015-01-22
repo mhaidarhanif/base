@@ -11,11 +11,14 @@ Partition
 
 HAZ: Ability | Experience
 E: Engineering | Electronic
-OR: Organizaion | Original
+OR: Organization | Original
 ID: Independent | Identity
 
 Abbreviations
 -------------
+
+Highly Adventurous Zealous Engineering Organization of Revolution in Digital
+Digital Revolutioner
 
 ### H:Adj
 
@@ -92,7 +95,8 @@ Reference
 A to Z
 Grid
 Cube
+Outer Space
 Asteorid
 Meteorite
-
+Satellite
 

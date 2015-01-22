@@ -30,6 +30,10 @@ zsh | Antigen
 xiki
 fish
 
+### Configuration
+
+dotfiles | [rcm](https://github.com/thoughtbot/rcm)
+
 
 Web Browser
 -----------
@@ -38,6 +42,12 @@ Google Chrome
 Chromium
 Mozilla Firefox
 Apple Safari
+
+### Extension
+
+AdBlock
+Vimium
+OneTab
 
 Text/Editor/IDE
 ---------------
@@ -65,6 +75,7 @@ Version Control
 Git repository
   Public: GitHub
     Prose
+    GitHub Pulse
   Private: GitLab
 Extension
   Git Flow
@@ -88,8 +99,11 @@ HTTP
 FTP
 rsync
 xdg-open
-WebDAV
+
 Open Data Protocol
+Open Graph
+WebDAV
+remoteStorage
 
 AJAX
 WebSocket | DDP
@@ -166,10 +180,21 @@ Browserling
 
 Sixpack
 
+### App Automation
+
+Appium
+
 ### Experience
 
 Lookback
 HockeyApp
+
+### Code
+
+Calabash
+JUnit
+MonkeyTalk
+uiautomator
 
 Benchmark
 ---------
@@ -189,9 +214,7 @@ Service/Host
 
 OpenShift
 Modulus | Compose
-Heroku
-
-GitHub Pages
+Heroku | Dokku | Flynn
 Divshot
 
 ### PaaI (Platform as an Infrastructure)
@@ -206,15 +229,20 @@ Bintray
 
 OpenStack
 Amazon Web Services | AWS
-DigitalOcean
 Google Cloud Platform
   https://cloud.google.com/starterpack
+Stackato
 
 ### SaaS
+
+GitHub Pages
+RawGit
 
 OpenStreetMap
 MapBox
 Leaflet
+
+The Android Arsenal
 
 Delivery
 --------
@@ -224,29 +252,35 @@ Delivery
 
 ### Code Review
 
-PullReview
+Codacy | PullReview
 
 ### Continuous Integration/Delivery/Deployment
 
-Codeship | drone | Travis CI
-Ship.io
-
-Wercker | Magnum CI
+All: Codeship | drone | Travis CI
+Mobile: Ship.io
+Deploy: Wercker | Magnum CI
 
 ### Continuous Update
 
 VersionEye
 Dill.js
 
-### VPS
+### Domain/CDN
 
-TinyVZ
-Tiny KVM
+Solve ISP bandwidth limitation issue
+
+CloudFlare | DNSimple
+NameCheap
+
+CDNify
+CDN.js
+imgix
 
 ### Server
 
-Linode
-Digital Ocean
+Linode | Digital Ocean | 
+
+OpenVZ | TinyVZ | Tiny KVM
 
 devo.ps
 
@@ -279,7 +313,7 @@ Orchestration
 
 ### Configuration Management
 
-ssh
+SSH | KeyBox
 
 Ansible
 Chef
@@ -319,13 +353,14 @@ PubNub
 
 ### NoSQL
 
-PouchDB
 CouchDB
+  PouchDB
 RethinkDB
-MongoDB
 ArangoDB
 
 Redis
+
+Aerospike
 
 Neo4j
   http://www.neo4j.org/learn/neo4j
@@ -333,7 +368,7 @@ Neo4j
 
 ### SQL
 
-MariaDB
+MySQL | MariaDB
   XtraDB
 OpenLDAP
 
@@ -354,11 +389,12 @@ Apache Hadoop
 MapReduce
 Cloud Dataflow
 
-
 Utility/DevOps
 --------------
 
 ### Performance/Monitoring/Alerting
+
+Pingdom
 
 New Relic | Sensu | Crittercism
 PagerDuty
@@ -369,6 +405,9 @@ Server Density
 Nagios
 
 Runbook
+
+Google Alerts
+mention
 
 ### TCP/HTTP Load Balancer
 
@@ -387,7 +426,9 @@ HAProxy
 memcached
 Varnish
 
-### Logging
+### Logger | Collector
+
+Fluentd
 
 logstash
 Papertrail
@@ -441,23 +482,28 @@ mailgun/transactional-email-templates
 
 Auto expiration link
 
-
-
 Analytics
 ---------
 
-Segment.io
-Google Analytics
-Heap
-Trak.io
-VUE | Liquid
-SumAll
-Keen IO
-
-UTM (Urchen Tracking Module)
-
 <http://blog.trak.io/a-beginners-introduction-to-metrics-analytics-for-data-driven-growth/>
 <http://blog.trak.io/what-does-customer-success-mean-for-saas-startups/>
+
+### Campaign
+
+UTM (Urchen Tracking Module) | Fresh URL
+
+### Web
+
+Segment.io
+Piwik | Heap | Trak.io
+VUE
+SumAll
+Keen IO
+Google Analytics
+
+### Mobile
+
+Liquid
 
 ### Click/Mouse/Heatmap
 

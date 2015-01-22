@@ -3,14 +3,11 @@ Development Security
 
 https://commando.io/security.html
 
-### Verification
+Verification
+------------
 
 No CAPTCHA
 Use reliable mouse/keyboard/touch approach
-
-### Privacy Policy
-
-[Taco Privacy Policy](https://tacoapp.com/info/privacy)
 
 Hash
 ----

@@ -1,20 +1,6 @@
 Technical X
 ===========
 
-Appearance
-----------
-
-## Range Area
-
-Ecosystem Friendly
-
-- Strict
-- Database
-- Spreadsheet
-+ Structured Note
-- Plain Text
-- Abstract
-
 Features
 --------
 
@@ -22,9 +8,6 @@ Features
 
 Standards-Based Open Interfaces
 Schema or schemaless
-
-
-HTTP
 
 Editor-agnostic
   Desktop/Web/Mobile app | Vim/Emacs | Sublime Text/gedit/Notepad++
@@ -90,34 +73,4 @@ Draggable or Sortable Interface
 Highlight
 Annotation
 Pin Notes/Comments with Control
-
-Data Type
----------
-
-- ID
-- Attribute
-- Property
-- Value
-
-- Name
-- Description
-  - Tagline
-  - Complete
-- Time
-
-- Future proof
-
-Dependencies
-------------
-
-- Piwik
-- Segment.io
-
-- David DM
-
-CI/CD
------
-
-drone.io
-Magnum CI
 

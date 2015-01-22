@@ -19,17 +19,6 @@ DevTools
 PageSpeed
 Phantomas
 
-CDN
----
-
-Solve ISP bandwidth limitation issue
-
-CloudFlare
-CDNify
-CDN.js
-
-imgix
-
 Cache
 -----
 

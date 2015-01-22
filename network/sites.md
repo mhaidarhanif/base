@@ -1,15 +1,11 @@
 Network Sites
 =============
 
-Support
--------
+Support Levels
+--------------
 
++ Person
 + Documentation
-  + {NAME}
-  + Manual | man page
-  + Developer | API
-  + Designer | Style
-  + Meta
 + Community
 + Social Network
 + Blog
@@ -38,16 +34,23 @@ Thesis
 
 ### Web Page
 
-Homepage
++ Homepage
 
-News
-Notes
-Blog
-  Organization
-  Company
-  Development
-  Engineering
-  Design
++ News
++ Notes
++ Blog
+  + Organization
+  + Company
+  + Development
+  + Engineering
+  + Design
++ Documentation
+  + Guide
+    + Automated
+    + Manual | man page
+  + Developer | API
+  + Designer | Style
+  + Meta
 
 Status
   StatusPage.io
@@ -118,15 +121,17 @@ Coderwall
 Tech.pro
 Hakka Labs
 
+Pinterest
 Instagram
 Vine
 
 Foursquare
 
 About.me
-LinkedIn
+LinkedIn [!]
   Publishing
 SkillPages
+Startup Ranking [!]
 
 Behance
 Dribbble
@@ -167,6 +172,8 @@ IRC
 
 ### Directory/Launch
 
+[!] Startuplister
+
 Product Hunt
 HackerBracket
 Binpress
@@ -180,7 +187,6 @@ AlternativesTo
 
 Bitnami
 Sandstorm
-Bowery
 
 StarterPad
 PitchClear
@@ -233,7 +239,7 @@ CoFoundersLab
 f6s
 
 CrunchBase
-LeanStack
+StackShare
 AppVita
 
 Glassdoor
@@ -266,8 +272,13 @@ Thunderclap
 
 Moleskine
 
-*  *  *
+### Open Source
 
 I Love Open Source
-Gratipay
+Gratipay | ChangeTip
+
+### Donate
+
+Patreon
+
 

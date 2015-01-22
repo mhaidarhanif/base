@@ -37,22 +37,32 @@ Collaboration & Email
 
 ### Team
 
-Google Apps
+Zoho | Google Apps
+
 Google Drive
 Google Calendar
-Google Hangouts
 
 Sqwiggle
 Front
 
 MadEye
 
-### Customer/Support
+### Customer/Support/CRM/ERP/PIM
+
+Intercom
+
+Helpful
+UserVoice
+
+ERPNext
+SuiteCRM
+
+eXo Platform
+
+Akeneo
 
 Streak
 osTicket
-
-Intercom
 
 Groove
 Freshdesk
@@ -69,13 +79,15 @@ Chat & Forum
 
 Slack
 
+Hubot | Lita
+
 ### Casual
 
 Telegram
 
 ### Public
 
-Gitter
+Scrollback | Gitter
 
 Document & Writing
 ------------------
@@ -85,8 +97,7 @@ Penflip
 Product/Project Management
 --------------------------
 
-Basecamp | Targetprocess
-Trello | Blossom
+Targetprocess | LibreBoard / Trello
 
 Screen Sharing
 --------------
