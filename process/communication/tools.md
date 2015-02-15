@@ -75,6 +75,10 @@ Support Details
 Chat & Forum
 ------------
 
+### All
+
+HumHub | Igloo | Bitrix24 Cloud
+
 ### Work
 
 Slack
@@ -118,4 +122,9 @@ Status
 ------
 
 Geckoboard
+
+Phone
+-----
+
+Zingaya
 

@@ -1,9 +1,0 @@
-
-
-
-USD
-
-
-Bitcoin
-
-

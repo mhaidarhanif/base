@@ -41,6 +41,7 @@ http://hazeorid.co
 http://hazeorid.net
 http://hazeor.id
 http://haze.or.id
+http://hazeorid.space
 http://hazeorid.technology
 http://hazeorid.codes
 http://hazeorid.systems

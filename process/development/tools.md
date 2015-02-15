@@ -56,9 +56,9 @@ EditorConfig
 
 Vim | NeoVim
 Emacs
-Sublime Text
 Atom
 gedit
+Sublime Text
 Notepad++
 
 Codebox
@@ -429,7 +429,6 @@ Varnish
 ### Logger | Collector
 
 Fluentd
-
 logstash
 Papertrail
 Loggly
@@ -449,8 +448,9 @@ Iperf
 
 ### Misc
 
-llpd
+Finch
 ngrok
+llpd
 
 Security
 --------
@@ -472,6 +472,12 @@ Email
 - Inkbrush
 
 - Litmus
+
+### Verification
+
+- Kickbox 
+
+### Design
 
 Premailer
 Grunt Email Design Workflow
@@ -510,7 +516,6 @@ Liquid
 Inspectlet
 Mouseflow
 
-
 Discovery
 ---------
 
@@ -523,8 +528,8 @@ Additional
 PubNub
 OpenDNS
 
-Form
-----
+Form/Survey
+-----------
 
 Typeform
 Qzzr

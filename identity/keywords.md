@@ -1,8 +1,9 @@
 Identity Keywords
 =================
 
-group
 hazeorid
-organization
 technology
+organization
+group
+team
 

@@ -25,9 +25,6 @@ http://insideintercom.io/video-is-king-diy-screencasts/
 Music
 -----
 
-Marmoset
-unseenmusic
-
 ### Feeling
 
 Exciting

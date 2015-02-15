@@ -4,27 +4,31 @@ Development Management
 Technique
 ---------
 
-Lean Startup
-Growth Hacking
++ Lean Startup
++ Growth Hacking
 
 Product/Project
 ---------------
 
 ### Type/Scope
 
-Open Source
-Semi-Closed Source
++ Open Source
++ Semi-Closed Source
 
-Customer Products
-Internal Tools
++ Internal Tools
++ Customer Products
 
 ### Method/Process/Iteration
 
-Agile + Lean
-  Scrum | Story Points & Iterations
-    SMART: Specific, Measurable, Achievable, Relevant, Time-boxed
-    INVEST: Independent, Negotiable, Valuable, Estimable, Small, Testable
-  Kanban | Managed Flow
+Agile and lean methodologies
+
++ Scrum | Story Points & Iterations
+  + SMART: Specific, Measurable, Achievable, Relevant, Time-boxed
+  + INVEST: Independent, Negotiable, Valuable, Estimable, Small, Testable
++ Kanban | Managed Flow
++ Hybrid
+
+### Discussion
 
 1. Feedback
 2. Responsive Support Team

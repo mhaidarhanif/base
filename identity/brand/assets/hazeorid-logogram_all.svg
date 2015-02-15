@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8000"
+   height="6000"
+   viewBox="0 0 7999.4668 5998.113"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   id="svg2"
+   sodipodi:docname="hazeorid-logogram_all.svg"
+   inkscape:export-filename="/home/mhaidarh/all/repo/hazeorid/hazeorid-base/identity/brand/assets/hazeorid-logogram_all.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#ff0000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     id="namedview50"
+     showgrid="false"
+     inkscape:zoom="0.048476119"
+     inkscape:cx="4178.2572"
+     inkscape:cy="2880.9128"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     showguides="false" />
+  <style
+     id="style4">.style0{fill:	none;fill-rule:	evenodd;}.style1{fill:	#de4f4f;}.style2{fill:	#fff;}</style>
+  <style
+     id="style6">.style0{fill:	none;fill-rule:	evenodd;}.style1{fill:	#de4f4f;}.style2{fill:	#fff;}</style>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>meteor-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title10">Meteor Logo</title>
+  <desc
+     id="desc12">Created with Sketch.</desc>
+  <defs
+     id="defs14">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4262">
+      <rect
+         ry="83.333351"
+         rx="83.333351"
+         y="-1130.0303"
+         x="555.56573"
+         height="999.93335"
+         width="999.93335"
+         id="rect4264"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4285">
+      <path
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+         d="m 9.9999997e-6,-1050.054 999.9333500000002,0 0,999.9334 -999.9333500000002,0 z"
+         id="path4287"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4611">
+      <path
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+         d="M 49.99668,-1050.0539 A 49.996666,49.996666 0 0 0 1e-5,-1000.0572 l 0,899.94 a 49.996666,49.996666 0 0 0 49.99667,49.99667 l 899.94,0 a 49.996668,49.996668 0 0 0 49.99665,-49.99667 l 0,-899.94 a 49.996664,49.996664 0 0 0 -49.99665,-49.9967 l -899.94,0 z"
+         id="path4613"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4411">
+      <path
+         sodipodi:nodetypes="sssscccccccsssscssscccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4413"
+         d="m 1299.9135,199.86275 c -27.6124,0 -49.9967,22.38427 -49.9967,49.99667 l 0,99.99333 c 0,27.6124 22.3843,49.99667 49.9967,49.99667 l 79.2838,0 270.6928,270.6929 0,29.28711 -199.9867,0 0,-49.99667 c -0.014,-26.63452 -20.9051,-48.58227 -47.5065,-49.90878 l 0,-0.0879 -102.4835,10e-6 c -27.6124,0 -49.9966,22.38427 -49.9966,49.99667 l 0,99.99334 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 349.9767,0 149.99,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99334 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 -26.428,0 -79.2838,0 -79.2838,0 l -270.6929,-270.6929 0,-29.2871 199.9867,0 0,49.99666 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 99.9934,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99333 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 z"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4611-3">
+      <path
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+         d="M 49.99668,-1050.0539 A 49.996666,49.996666 0 0 0 1e-5,-1000.0572 l 0,899.94 a 49.996666,49.996666 0 0 0 49.99667,49.99667 l 899.94,0 a 49.996668,49.996668 0 0 0 49.99665,-49.99667 l 0,-899.94 a 49.996664,49.996664 0 0 0 -49.99665,-49.9967 l -899.94,0 z"
+         id="path4613-45"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4411-8">
+      <path
+         sodipodi:nodetypes="sssscccccccsssscssscccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4413-3"
+         d="m 1299.9135,199.86275 c -27.6124,0 -49.9967,22.38427 -49.9967,49.99667 l 0,99.99333 c 0,27.6124 22.3843,49.99667 49.9967,49.99667 l 79.2838,0 270.6928,270.6929 0,29.28711 -199.9867,0 0,-49.99667 c -0.014,-26.63452 -20.9051,-48.58227 -47.5065,-49.90878 l 0,-0.0879 -102.4835,10e-6 c -27.6124,0 -49.9966,22.38427 -49.9966,49.99667 l 0,99.99334 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 349.9767,0 149.99,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99334 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 -26.428,0 -79.2838,0 -79.2838,0 l -270.6929,-270.6929 0,-29.2871 199.9867,0 0,49.99666 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 99.9934,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99333 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 z"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4611-3-3">
+      <path
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+         d="M 49.99668,-1050.0539 A 49.996666,49.996666 0 0 0 1e-5,-1000.0572 l 0,899.94 a 49.996666,49.996666 0 0 0 49.99667,49.99667 l 899.94,0 a 49.996668,49.996668 0 0 0 49.99665,-49.99667 l 0,-899.94 a 49.996664,49.996664 0 0 0 -49.99665,-49.9967 l -899.94,0 z"
+         id="path4613-45-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4611-2">
+      <path
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+         d="M 49.99668,-1050.0539 A 49.996666,49.996666 0 0 0 1e-5,-1000.0572 l 0,899.94 a 49.996666,49.996666 0 0 0 49.99667,49.99667 l 899.94,0 a 49.996668,49.996668 0 0 0 49.99665,-49.99667 l 0,-899.94 a 49.996664,49.996664 0 0 0 -49.99665,-49.9967 l -899.94,0 z"
+         id="path4613-1"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4411-89">
+      <path
+         sodipodi:nodetypes="sssscccccccsssscssscccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4413-1"
+         d="m 1299.9135,199.86275 c -27.6124,0 -49.9967,22.38427 -49.9967,49.99667 l 0,99.99333 c 0,27.6124 22.3843,49.99667 49.9967,49.99667 l 79.2838,0 270.6928,270.6929 0,29.28711 -199.9867,0 0,-49.99667 c -0.014,-26.63452 -20.9051,-48.58227 -47.5065,-49.90878 l 0,-0.0879 -102.4835,10e-6 c -27.6124,0 -49.9966,22.38427 -49.9966,49.99667 l 0,99.99334 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 349.9767,0 149.99,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99334 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 -26.428,0 -79.2838,0 -79.2838,0 l -270.6929,-270.6929 0,-29.2871 199.9867,0 0,49.99666 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 99.9934,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99333 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 z"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4411-89-0">
+      <path
+         sodipodi:nodetypes="sssscccccccsssscssscccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4413-1-0"
+         d="m 1299.9135,199.86275 c -27.6124,0 -49.9967,22.38427 -49.9967,49.99667 l 0,99.99333 c 0,27.6124 22.3843,49.99667 49.9967,49.99667 l 79.2838,0 270.6928,270.6929 0,29.28711 -199.9867,0 0,-49.99667 c -0.014,-26.63452 -20.9051,-48.58227 -47.5065,-49.90878 l 0,-0.0879 -102.4835,10e-6 c -27.6124,0 -49.9966,22.38427 -49.9966,49.99667 l 0,99.99334 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 349.9767,0 149.99,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99334 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 -26.428,0 -79.2838,0 -79.2838,0 l -270.6929,-270.6929 0,-29.2871 199.9867,0 0,49.99666 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 99.9934,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99333 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 z"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4411-89-0-4">
+      <path
+         sodipodi:nodetypes="sssscccccccsssscssscccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4413-1-0-3"
+         d="m 1299.9135,199.86275 c -27.6124,0 -49.9967,22.38427 -49.9967,49.99667 l 0,99.99333 c 0,27.6124 22.3843,49.99667 49.9967,49.99667 l 79.2838,0 270.6928,270.6929 0,29.28711 -199.9867,0 0,-49.99667 c -0.014,-26.63452 -20.9051,-48.58227 -47.5065,-49.90878 l 0,-0.0879 -102.4835,10e-6 c -27.6124,0 -49.9966,22.38427 -49.9966,49.99667 l 0,99.99334 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 349.9767,0 149.99,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99334 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 -26.428,0 -79.2838,0 -79.2838,0 l -270.6929,-270.6929 0,-29.2871 199.9867,0 0,49.99666 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 99.9934,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99333 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 z"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4411-89-4">
+      <path
+         sodipodi:nodetypes="sssscccccccsssscssscccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path4413-1-3"
+         d="m 1299.9135,199.86275 c -27.6124,0 -49.9967,22.38427 -49.9967,49.99667 l 0,99.99333 c 0,27.6124 22.3843,49.99667 49.9967,49.99667 l 79.2838,0 270.6928,270.6929 0,29.28711 -199.9867,0 0,-49.99667 c -0.014,-26.63452 -20.9051,-48.58227 -47.5065,-49.90878 l 0,-0.0879 -102.4835,10e-6 c -27.6124,0 -49.9966,22.38427 -49.9966,49.99667 l 0,99.99334 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 349.9767,0 149.99,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99334 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 -26.428,0 -79.2838,0 -79.2838,0 l -270.6929,-270.6929 0,-29.2871 199.9867,0 0,49.99666 c 0,27.6124 22.3842,49.99667 49.9966,49.99667 l 99.9934,0 c 27.6124,0 49.9966,-22.38427 49.9966,-49.99667 l 0,-99.99333 c 0,-27.6124 -22.3842,-49.99667 -49.9966,-49.99667 z"
+         style="opacity:1;fill:#ecf0f1;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4779">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4781"
+         d="m 315.46245,4693.5916 a 49.996666,49.996666 0 0 0 -49.99667,49.9967 l 0,899.94 a 49.996666,49.996666 0 0 0 49.99667,49.9967 l 899.94005,0 a 49.996668,49.996668 0 0 0 49.9966,-49.9967 l 0,-899.94 a 49.996664,49.996664 0 0 0 -49.9966,-49.9967 l -899.94005,0 z"
+         style="opacity:1;fill:#bdc3c7;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bg"
+     style="display:inline"
+     transform="translate(0,4999.6668)"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.20084;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+       id="rect4319-2-8-0-4-3"
+       width="7999.4673"
+       height="2999.8003"
+       x="0"
+       y="-2000.8582"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="logos"
+     style="display:inline"
+     transform="translate(0,4999.6668)">
+    <g
+       transform="translate(3499.7667,-1400.7743)"
+       id="g5093-3-0"
+       style="fill:#0064ff;fill-opacity:1" />
+    <g
+       transform="translate(4549.6966,-1400.7744)"
+       id="g5093-3-5"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="translate(6649.5567,-1400.7744)"
+       id="g5093-3-0-4"
+       style="fill:#0064ff;fill-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g5112"
+       transform="translate(-9080.6371,-6.7818445)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2"
+         d="m 9230.6282,-4143.6851 0,99.9934 0,399.9733 0,99.9933 99.993,0 399.974,0 99.992,0 0,-99.9933 0,-399.9733 0,-99.9934 -99.992,0 -399.974,0 -99.994,0 z m 99.993,99.9934 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z m 299.98,0 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-4-6"
+         d="m 9230.6272,-4843.6385 0,599.96 599.96,0 0,-599.96 z m 99.991,99.9933 99.996,0 0,99.9934 -99.996,0 z m 299.98,0 99.996,0 0,99.9934 -99.996,0 z m -299.978,199.9867 99.994,0 0,99.9933 199.986,0 0,-99.9933 99.994,0 0,199.9867 -399.974,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-9"
+         d="m 9230.6282,-2743.7783 0,99.9934 0,399.9733 0,99.9933 99.993,0 399.974,0 99.992,0 0,-99.9933 0,-399.9733 0,-99.9934 -99.992,0 -399.974,0 -99.994,0 z m 99.993,99.9934 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z m 299.98,0 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-4-6-0"
+         d="m 9230.6272,-3443.7317 0,599.96 599.96,0 0,-599.96 z m 99.991,99.9933 99.996,0 0,99.9934 -99.996,0 z m 299.98,0 99.996,0 0,99.9934 -99.996,0 z m -299.978,199.9867 99.994,0 0,99.9933 199.986,0 0,-99.9933 99.994,0 0,199.9867 -399.974,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5118"
+       transform="translate(-3381.0173,-6.7818445)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-1"
+         d="m 10630.535,-4143.6851 0,99.9934 0,399.9733 0,99.9933 99.993,0 399.974,0 99.992,0 0,-99.9933 0,-399.9733 0,-99.9934 -99.992,0 -399.974,0 -99.994,0 z m 99.993,99.9934 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z m 299.98,0 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-4-6-6"
+         d="m 10630.534,-4843.6385 0,599.96 599.96,0 0,-599.96 z m 99.991,99.9933 99.996,0 0,99.9934 -99.996,0 z m 299.98,0 99.996,0 0,99.9934 -99.996,0 z m -299.978,199.9867 99.994,0 0,99.9933 199.986,0 0,-99.9933 99.994,0 0,199.9867 -399.974,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-1-0"
+         d="m 10630.535,-2743.7783 0,99.9934 0,399.9733 0,99.9933 99.993,0 399.974,0 99.992,0 0,-99.9933 0,-399.9733 0,-99.9934 -99.992,0 -399.974,0 -99.994,0 z m 99.993,99.9934 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z m 299.98,0 99.994,0 0,399.9733 -99.994,0 0,-399.9733 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9-2-4-6-6-2"
+         d="m 10630.534,-3443.7317 0,599.96 599.96,0 0,-599.96 z m 99.991,99.9933 99.996,0 0,99.9934 -99.996,0 z m 299.98,0 99.996,0 0,99.9934 -99.996,0 z m -299.978,199.9867 99.994,0 0,99.9933 199.986,0 0,-99.9933 99.994,0 0,199.9867 -399.974,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4811"
+       style="fill:#2980b9;fill-opacity:1"
+       transform="translate(-249.9845,2624.2489)">
+      <path
+         sodipodi:nodetypes="cccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-3-4-1-7-3"
+         d="m 2199.8538,-6424.7412 0,599.96 199.9866,0 0,-249.9833 199.9867,0 0,249.9833 199.9871,0 0,-599.96 z m 199.9866,99.9933 199.9867,0 0,149.9901 -199.9867,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-1-9-9-0-9-0-2"
+         d="m 3599.7612,-6424.7412 0,599.96 599.959,0 0,-99.9934 -399.973,0 0,-149.9899 399.973,0 0,-99.9933 -399.973,0 0,-149.9901 399.973,0 0,-99.9933 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 4999.6672,-5824.7811 c 0,-199.9867 0,-399.9733 0,-599.9601 199.987,0 399.973,0 599.96,0 l 0,99.9935 -399.973,0 0,499.9666 z"
+         id="rect5259-1-0-6-5-0-3-6-3" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259-1-94-5-9-2-9-9"
+         d="m 5699.6202,-6424.7412 0,99.9933 199.987,0 0,399.9733 -199.987,0 0,99.9934 599.961,0 0,-99.9934 -199.987,0 0,-399.9733 199.987,0 0,-99.9933 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:0.99993336;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5514-1-1-16-4"
+         d="m 6399.5732,-6424.7439 0,0 0,599.9581 449.97,0 149.99,-149.992 0,-299.9819 -149.99,-149.9881 z m 199.989,99.9933 149.9887,0 99.992,99.9934 0,199.9866 -99.992,99.9934 -149.9887,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+         inkscape:connector-curvature="0"
+         id="rect4279-0-6-8"
+         d="m 4299.7142,-6424.7369 0,199.9867 99.994,0 0,199.9867 -99.994,0 0,199.9866 199.987,0 0,-99.9933 199.987,0 0,99.9933 199.986,0 0,-199.9866 -99.993,0 0,-199.9867 99.993,0 0,-199.9867 -199.986,0 0,99.9933 -199.987,0 0,-99.9933 -199.987,0 z m 199.987,199.9867 199.987,0 0,199.9867 -199.987,0 0,-199.9867 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2980b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.4"
+         d="m 3499.7672,-6424.7332 0,199.9867 -129.281,0 -270.693,270.693 0,29.287 199.987,0 0,-99.9934 199.987,0 0,199.9867 -599.96,0 0,-199.9867 129.28,0 270.693,-270.6929 0,-29.2871 -199.987,0 0,99.9934 -199.986,0 0,-199.9867 199.986,0 199.987,0 z"
+         id="rect4150-7-09-1-3-0-9-1-8-0" />
+      <path
+         id="rect6348"
+         d="m 1499.9026,-6424.7412 0,599.96 199.9867,0 0,-249.9833 199.9847,0 0,249.9833 199.9864,0 0,-599.96 -199.9864,0 0,249.9833 -199.9847,0 0,-249.9833 -199.9867,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5514-1-1-16-4-5-3-5"
+         d="m 4299.7142,-7124.6884 0,0 0,599.9581 599.96,0 0,-599.962 z m 199.989,99.9933 199.984,0 0,399.9734 -199.984,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-6174.7583"
+         x="4999.668"
+         height="99.9935"
+         width="599.96002"
+         id="rect6432"
+         style="opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="-6424.7407"
+         x="5399.6426"
+         height="299.97983"
+         width="199.98668"
+         id="rect6434"
+         style="opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g6498"
+         style="display:inline;fill:#2980b9;fill-opacity:1"
+         transform="translate(-7488.167,1042.6954)">
+        <path
+           style="opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 12887.809,-6967.4701 -149.99,-149.99 199.986,0 49.997,49.9967 99.992,99.9934 0,99.9933 -199.986,0 z"
+           id="rect6415"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5514-1-1-16-4-5-3-5-9"
+         d="m 4299.7142,-5724.7796 0,0 0,599.9582 599.96,0 0,-599.9621 z m 199.989,99.9933 199.984,0 0,399.9735 -199.984,0 z"
+         style="display:inline;opacity:1;fill:#2980b9;fill-opacity:1;stroke:none;stroke-width:1.00000012;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5200"
+       transform="translate(0,-124.99141)">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         d="m 2449.8367,-1400.8983 999.9333,0 0,999.9333 -999.9333,0 z"
+         id="path3202-0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         d="m 3499.7667,-1400.8983 999.9333,0 0,999.93328 -999.9333,0 z"
+         id="path3202-0-81"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3202-0-81-4"
+         d="m 4549.6966,-1400.8983 0,999.93337 999.9334,0 0,-999.93337 z m 9.9994,9.9993 979.9346,0 0,979.93473 -979.9346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3202-0-81-4-3"
+         d="m 5599.6267,-1400.8983 0,999.93337 999.9334,0 0,-999.93337 z m 9.9994,9.9994 979.9346,0 0,979.93467 -979.9346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3202-0-81-4-3-7"
+         d="m 6649.5567,-1400.8984 0,999.93342 999.9334,0 0,-999.93342 z m 9.9994,9.9994 979.9346,0 0,979.93472 -979.9346,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         d="m 2449.8365,-350.96851 999.9334,0 0,999.93372 -999.9334,0 z"
+         id="path3202"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-249.98344,-3899.9877)"
+         id="g6774">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           d="m 2899.8067,3749.0065 0,199.9866 99.9933,0 0,199.9867 -99.9933,0 0,199.9867 199.9866,0 0,-99.9933 199.9867,0 0,99.9933 199.9867,0 0,-199.9867 -99.9933,0 0,-199.9867 99.9933,0 0,-199.9866 -199.9867,0 0,99.9933 -199.9867,0 0,-99.9933 -199.9866,0 z m 199.9866,199.9866 199.9867,0 0,199.9867 -199.9867,0 0,-199.9867 z"
+           id="path4023"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;enable-background:accumulate"
+           d="m 3299.78,3948.9931 0,199.9867 199.9867,199.9867 0,-199.9867 -99.9933,0 0,-199.9867 99.9933,0 0,-199.9866 z"
+           id="path4025"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4027"
+           d="m 3299.78,3948.9931 -199.9867,0 -199.9866,-199.9866 199.9866,0 0,99.9933 199.9867,0 0,-99.9933 199.9867,0 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4029"
+           d="m 3099.7933,4148.9798 199.9867,0 199.9867,199.9867 -199.9867,0 0,-99.9933 -199.9867,0 0,99.9933 -199.9866,0 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;enable-background:accumulate" />
+      </g>
+      <g
+         transform="matrix(0.99993337,0,0,0.99993337,-1329.9114,-350.96851)"
+         id="g4376">
+        <g
+           id="g4048"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square-out.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect9114"
+             d="m 1680,5e-5 1000,0 0,999.99995 -1000,0 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+          <path
+             sodipodi:nodetypes="cccc"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             d="m 2180,500 500,499.99995 -1000,0 z"
+             id="path4031-7"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4044-7"
+             d="M 2180.0001,500 2680,1000 2680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4046-1"
+             d="M 2180,499.99995 2680,0 1680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+             inkscape:connector-curvature="0"
+             id="rect4279-0-6"
+             d="m 1880,200 0,200 100,0 0,200.00002 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200.00002 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200.00002 -200,0 L 2080,400 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.99993337,0,0,0.99993337,-279.98126,-350.96851)"
+         id="g4376-1"
+         style="display:inline">
+        <g
+           id="g4048-3"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square-out.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect9114-0"
+             d="m 1680,5e-5 1000,0 0,999.99995 -1000,0 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+          <path
+             sodipodi:nodetypes="cccc"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             d="m 2180,500 500,499.99995 -1000,0 z"
+             id="path4031-7-2"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4044-7-1"
+             d="M 2180.0001,500 2680,1000 2680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4046-1-3"
+             d="M 2180,499.99995 2680,0 1680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+             inkscape:connector-curvature="0"
+             id="rect4279-0-6-9"
+             d="m 1880,200 0,200 100,0 0,200.00002 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200.00002 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200.00002 -200,0 L 2080,400 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.99993337,0,0,0.99993337,2869.8087,-350.96841)"
+         id="g4376-6"
+         style="display:inline">
+        <g
+           id="g4048-2"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square-out.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect9114-9"
+             d="m 1680,5e-5 1000,0 0,999.99995 -1000,0 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+          <path
+             sodipodi:nodetypes="cccc"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             d="m 2180,500 500,499.99995 -1000,0 z"
+             id="path4031-7-5"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4044-7-12"
+             d="M 2180.0001,500 2680,1000 2680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4046-1-6"
+             d="M 2180,499.99995 2680,0 1680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+             inkscape:connector-curvature="0"
+             id="rect4279-0-6-4"
+             d="m 1880,200 0,200 100,0 0,200.00002 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200.00002 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200.00002 -200,0 L 2080,400 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.99993337,0,0,0.99993337,3919.7388,-350.96841)"
+         id="g4376-1-2"
+         style="display:inline">
+        <g
+           id="g4048-3-0"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square-out.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect9114-0-8"
+             d="m 1680,5e-5 1000,0 0,999.99995 -1000,0 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+          <path
+             sodipodi:nodetypes="cccc"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             d="m 2180,500 500,499.99995 -1000,0 z"
+             id="path4031-7-2-5"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4044-7-1-2"
+             d="M 2180.0001,500 2680,1000 2680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4046-1-3-8"
+             d="M 2180,499.99995 2680,0 1680,0 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:export-ydpi="90"
+             inkscape:export-xdpi="90"
+             inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+             inkscape:connector-curvature="0"
+             id="rect4279-0-6-9-6"
+             d="m 1880,200 0,200 100,0 0,200.00002 -100,0 0,200 200,0 0,-100 200,0 0,100 200,0 0,-200 -100,0 0,-200.00002 100,0 0,-200 -200,0 0,100 -200,0 0,-100 -200,0 z m 200,200 200,0 0,200.00002 -200,0 L 2080,400 Z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+        </g>
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+         d="m 6649.5567,-350.96841 999.9334,0 0,999.93352 -999.9334,0 z"
+         id="path3202-6"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(799.94662,-3899.9877)"
+         id="g6792">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           d="m 6049.5965,3749.0065 0,199.9866 99.9933,0 0,199.9867 -99.9933,0 0,199.9867 199.9866,0 0,-99.9933 199.9867,0 0,99.9933 199.9867,0 0,-199.9867 -99.9933,0 0,-199.9867 99.9933,0 0,-199.9866 -199.9867,0 0,99.9933 -199.9867,0 0,-99.9933 -199.9866,0 z m 199.9866,199.9866 199.9867,0 0,199.9867 -199.9867,0 0,-199.9867 z"
+           id="path4023-4"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;enable-background:accumulate"
+           d="m 6449.5698,3948.9931 0,199.9867 199.9867,199.9867 0,-199.9867 -99.9933,0 0,-199.9867 99.9933,0 0,-199.9866 z"
+           id="path4025-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4027-4"
+           d="m 6449.5698,3948.9931 -199.9867,0 -199.9866,-199.9866 199.9866,0 0,99.9933 199.9867,0 0,-99.9933 199.9867,0 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;enable-background:accumulate" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_glass-blue_stroke-black.png"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4029-0"
+           d="m 6249.5831,4148.9798 199.9867,0 199.9867,199.9867 -199.9867,0 0,-99.9933 -199.9867,0 0,99.9933 -199.9866,0 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;enable-background:accumulate" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+         inkscape:connector-curvature="0"
+         id="rect4279-0-6-4-2"
+         d="m 4749.6833,-1200.9116 0,199.9867 99.9933,0 0,199.98667 -99.9933,0 0,199.9866 199.9866,0 0,-99.9933 199.9867,0 0,99.9933 199.9867,0 0,-199.9866 -99.9934,0 0,-199.98667 99.9934,0 0,-199.9867 -199.9867,0 0,99.9933 -199.9867,0 0,-99.9933 -199.9866,0 z m 199.9866,199.9867 199.9867,0 0,199.98667 -199.9867,0 0,-199.98667 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99993336px;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+         inkscape:connector-curvature="0"
+         id="path4023-6"
+         d="m 3699.7534,-1200.9115 0,199.9866 99.9933,0 0,199.98666 -99.9933,0 0,199.9867 199.9866,0 0,-99.9933 199.9867,0 0,99.9933 199.9867,0 0,-199.9867 -99.9933,0 0,-199.98666 99.9933,0 0,-199.9866 -199.9867,0 0,99.9933 -199.9867,0 0,-99.9933 -199.9866,0 z m 199.9866,199.9866 199.9867,0 0,199.98666 -199.9867,0 0,-199.98666 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+         inkscape:connector-curvature="0"
+         id="path4023-6-9"
+         d="m 6849.5434,-1200.9116 0,199.9866 99.9933,0 0,199.98666 -99.9933,0 0,199.9867 199.9866,0 0,-99.9933 199.9867,0 0,99.9933 199.9867,0 0,-199.9867 -99.9933,0 0,-199.98666 99.9933,0 0,-199.9866 -199.9867,0 0,99.9933 -199.9867,0 0,-99.9933 -199.9866,0 z m 199.9866,199.9866 199.9867,0 0,199.98666 -199.9867,0 0,-199.98666 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012px;marker:none;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_pop-blue_square.png"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012px;marker:none;enable-background:accumulate"
+         d="m 3499.7666,-350.96851 999.9335,0 0,999.9337 -999.9335,0 z"
+         id="path3202-9"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+         inkscape:connector-curvature="0"
+         id="path4023-6-1"
+         d="m 3699.7534,-150.98161 0,199.9866 99.9933,0 0,199.9866 -99.9933,0 0,199.9867 199.9866,0 0,-99.9933 199.9866,0 0,99.9933 199.9867,0 0,-199.9867 -99.9933,0 0,-199.9866 99.9933,0 0,-199.9866 -199.9867,0 0,99.9933 -199.9866,0 0,-99.9933 -199.9866,0 z m 199.9866,199.9866 199.9866,0 0,199.9866 -199.9866,0 0,-199.9866 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012px;marker:none;enable-background:accumulate" />
+      <g
+         id="g5187">
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+           d="m 349.9769,-1400.8984 999.9331,0 0,999.93327 -999.9331,0 z"
+           id="rect9114-6-4-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99993336px;marker:none;enable-background:accumulate"
+           d="m 549.96345,-1200.9118 0,199.9866 99.99333,0 0,199.98672 -99.99333,0 0,199.9867 199.98667,0 0,-99.99339 199.98667,0 0,99.99339 199.98661,0 0,-199.9867 -99.9933,0 0,-199.98672 99.9933,0 0,-199.9866 -199.98661,0 0,99.9933 -199.98667,0 0,-99.9933 -199.98667,0 z m 199.98667,199.9866 199.98667,0 0,199.98672 -199.98667,0 0,-199.98672 z"
+           id="rect4279-0-6-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         id="g5191">
+        <g
+           id="g4648"
+           transform="translate(844.34095,-270.8681)">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect9114-2"
+             d="m 555.56576,-1130.0303 999.93334,0 0,999.93337 -999.93334,0 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0064ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" />
+          <path
+             sodipodi:nodetypes="cccc"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0078ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             d="m 1055.5324,-630.06361 499.9667,499.96663 -999.93334,0 z"
+             id="path4031"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4044"
+             d="m 1055.5325,-630.06361 499.9666,499.96668 0,-999.93337 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4046"
+             d="m 1055.5324,-630.06366 499.9667,-499.96664 -999.93334,0 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00a0ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+             sodipodi:nodetypes="cccc" />
+        </g>
+        <path
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99993336px;marker:none;enable-background:accumulate"
+           d="m 1599.8933,-1200.9118 0,199.9867 99.9934,0 0,199.98674 -99.9934,0 0,199.9867 199.9867,0 0,-99.9934 199.9867,0 0,99.9934 199.9866,0 0,-199.9867 -99.9933,0 0,-199.98674 99.9933,0 0,-199.9867 -199.9866,0 0,99.9933 -199.9867,0 0,-99.9933 -199.9867,0 z m 199.9867,199.9867 199.9867,0 0,199.98674 -199.9867,0 0,-199.98674 z"
+           id="rect4279-0-6-2-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/mhaidarh/storage/project/hazeorid/id/hazeorid-logo_plain-blue.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -29,7 +29,7 @@ CoffeeScript
 
 ### Platform
 
-NodeJS | JXcore | JXP
+Node.js | JXcore | JXP | io.js
 
 ### Platform Manager
 
@@ -230,12 +230,11 @@ WAMP/Autobahn/Crossbar.io
 
 Ionic
 Parse
-StrongLoop
-LoopBack
 
 ### Micro
 
 Express
+ShareJS
 
 ### Front App
 

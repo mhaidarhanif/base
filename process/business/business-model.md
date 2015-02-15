@@ -110,6 +110,13 @@ Flattr
 Gittip
 Tip4Commit
 
+### Currency
+
+USD
+IDR
+Bitcoin
+
+
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 

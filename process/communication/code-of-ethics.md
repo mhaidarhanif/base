@@ -1,7 +1,15 @@
+Legal Documents
+===============
+
 Code of Ethics and Professional Conduct
-=======================================
+---------------------------------------
 
 [W3C Code of Ethics and Professional Conduct](http://www.w3.org/Consortium/cepc/)
+
+Terms of Service
+----------------
+
+https://atom.io/terms
 
 Privacy Policy
 --------------

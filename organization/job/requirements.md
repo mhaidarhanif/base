@@ -6,7 +6,7 @@ General
 
 - Cognitive Ability
 - Emergent Leadership
-- Humility
+- Modesty
 - Ownership
 - Expertise
 - Accomplishments Beyond Degree
@@ -23,8 +23,9 @@ Back-End Development
 
 Unix-like OS
   Shell scripting
-Vim
-VCS: Git
+Vim | Emacs | Atom
+VCS
+  Git
 
 ### Fundamental
 
@@ -33,17 +34,22 @@ Web technology: HTML5 CSS3
 
 ### Programming
 
-JavaScript
+JavaScript | CoffeeScript
+Python
+Ruby
+Shell
 
 ### Database
 
-SQL
 NoSQL
+  MongoDB | CouchDB
+SQL
+  MySQL | MariaDB
 
 ### Application
 
 RESTful API
-PaaS
+SaaS | PaaS
 
 Design
 ------
