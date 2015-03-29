@@ -1,6 +1,9 @@
 Technical X
 ===========
 
+Open Company
+https://github.com/bevry/goopen
+
 Features
 --------
 
