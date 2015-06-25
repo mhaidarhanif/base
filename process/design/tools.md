@@ -24,6 +24,12 @@ LayerVault | Pixelapse
 
 Inkscape | Sketch
 
+## Pixel
+
+GrafX2
+mtPaint
+Aseprite
+
 ### SVG
 
 Responsive

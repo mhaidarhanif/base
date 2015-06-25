@@ -94,7 +94,6 @@ Method
 
 Stripe
 GoCardless
-Plasso
 
 Debit
 Credit

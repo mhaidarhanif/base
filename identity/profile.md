@@ -26,13 +26,13 @@ Web App
 
 ### Investation
 
-Self-funded
+Self-funded | Bootstrap
 Capital
 
 Contact
 -------
 
-### Website
+### Website URL
 
 http://hazeorid.com
 http://hazeorid.org
@@ -41,9 +41,10 @@ http://hazeorid.co
 http://hazeorid.net
 http://hazeor.id
 http://haze.or.id
-http://hazeorid.space
 http://hazeorid.technology
 http://hazeorid.codes
+http://hazeorid.design
+http://hazeorid.space
 http://hazeorid.systems
 http://🌌 .com | http://xn--sg8h.com
 

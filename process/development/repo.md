@@ -186,6 +186,7 @@ Shields IO | Badge Service
 Version
   npm
     NodeICO
+    package-quality
   bower
   PyPI
   Gem

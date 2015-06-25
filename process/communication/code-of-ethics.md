@@ -27,5 +27,6 @@ Code of Conduct
 
 [](https://npmjs.com/policies/conduct)
 [Citizen Code of Conduct | A project of Stumptown Syndicate](http://citizencodeofconduct.org)
+[CampJS Code of Conduct](http://v.campjs.com/code-of-conduct.html)
 
 

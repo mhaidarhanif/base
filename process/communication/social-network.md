@@ -28,3 +28,20 @@ Describe the best team you’ve ever been on (even scouts or sports) and how it 
 
 Only expertise
 
+Media
+-----
+
++ Follow the optimal length
++ Include descriptive photos
+
+### Facebook
+
+...
+
+### Twitter
+
+Pinned tweet
+Put links on the wallpaper
+
+
+

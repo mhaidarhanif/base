@@ -24,7 +24,7 @@ Back-End Development
 Unix-like OS
   Shell scripting
 Vim | Emacs | Atom
-VCS
+VCS | SCM | RC
   Git
 
 ### Fundamental

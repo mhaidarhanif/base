@@ -22,11 +22,13 @@ Digital Revolutioner
 
 ### H:Adj
 
+Hybrid
 Highly
 Heuristic
 Happy
 Harmonious
 Healthy
+Hack
 
 ### A:Adj
 
@@ -58,7 +60,6 @@ Of
 Organization of
 Optimist of
 Overseer of
-...
 
 ### R:N
 
@@ -66,7 +67,6 @@ Revolution
 Reformation
 Reinforcement
 Refreshment
-...
 
 ### I:Adv
 

@@ -2,11 +2,18 @@ Brand Design
 ============
 
 Guidelines
-  Simple
-  Detailed
-  Find Guidelines
+----------
+
+Simple
+Detailed
+Find Guidelines
 
 https://github.com/TideSDK/TideSDK-Media
+
+Style Guide
+-----------
+
+http://alistapart.com/article/creating-style-guides
 
 Asset Host Provider
 -------------------

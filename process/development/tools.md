@@ -76,7 +76,7 @@ Git repository
   Public: GitHub
     Prose
     GitHub Pulse
-  Private: GitLab
+  Private: Bitbucket | GitLab
 Extension
   Git Flow
   git-media
@@ -86,12 +86,22 @@ Extension
 
 Swagger | ReadMe.io
 
-Web Tech
---------
+Meta Data
+---------
+
+Open Graph
+Twitter Card
+Iframely
+
+Embed
+-----
 
 Prerender
 HTML Embed
 oEmbed
+
+Web Tech
+--------
 
 ### Protocol
 
@@ -101,7 +111,6 @@ rsync
 xdg-open
 
 Open Data Protocol
-Open Graph
 WebDAV
 remoteStorage
 
@@ -256,7 +265,7 @@ Codacy | PullReview
 
 ### Continuous Integration/Delivery/Deployment
 
-All: Codeship | drone | Travis CI
+All: Codeship | drone | Travis CI | Shippable
 Mobile: Ship.io
 Deploy: Wercker | Magnum CI
 
@@ -278,7 +287,7 @@ imgix
 
 ### Server
 
-Linode | Digital Ocean | 
+Linode | Digital Ocean
 
 OpenVZ | TinyVZ | Tiny KVM
 
@@ -307,6 +316,7 @@ Containerization
 ----------------
 
 Docker
+Dokku
 
 Orchestration
 -------------

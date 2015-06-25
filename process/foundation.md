@@ -20,25 +20,49 @@ phi·los·o·phy (noun): a particular system, theory, or attitude held by a pers
 
 man·i·fes·to: a public declaration of policy and aims, especially issued for community or political agreement.
 
+[Hazeorid Manifesto](http://hazeorid.org/manifesto)
 [Agile Manifesto | Manifesto for Agile Software Development](http://agilemanifesto.org)
-[The Zen of Python | Python Philosophy](https://www.python.org/doc/humor/#the-zen-of-python)
+[The Responsive Organization Manifesto](http://responsive.org/manifesto)
 [Open Source Way](https://opensource.com/open-source-way)
-[The Reactive Manifesto](http://reactivemanifesto.org)
 [The GNU Manifesto](http://www.gnu.org/gnu/manifesto.html)
-[iFixit Self-Repair Manifesto](https://www.ifixit.com/Manifesto)
+[The Zen of Python | Python Philosophy](https://www.python.org/doc/humor/#the-zen-of-python)
+[The Reactive Manifesto](http://reactivemanifesto.org)
 [The Hack Day Manifesto](http://hackdaymanifesto.com)
 [Muut Manifesto](https://muut.com/manifesto)
 [Pixelapse Open Manifesto](https://www.pixelapse.com/open)
+[iFixit Self-Repair Manifesto](https://www.ifixit.com/Manifesto)
+[First Round Review Manifesto](http://firstround.com/review/manifesto)
 
 *  *  *
 
 Main Elements
 -------------
 
+### Aim
+
++ Vision
++ Goal
++ Strategy
++ Tactics
++ Activities
+
+### Activate
+
++ Person
++ Team
++ User
++ Customer
++ Organization
++ Education
++ Business
++ Country
++ World
+
 ### Apply
 
 + Brand
 + Identity
++ Ambition
 
 ### Abbreviated
 
@@ -159,7 +183,9 @@ Analogy
 Asynchronous
 Consistent
 Constrained
-Delight
+Creativity
+Curiousity
+Delightful
   Clean
   Clear
 Discovery

@@ -11,6 +11,8 @@ Professional
 Happy
 Winner
 Creative
+Curious
+Initiative
 Visionary
 
 Experienced
@@ -85,6 +87,7 @@ Rules
 - Apply Multiple Perspectives
 - Adjust, and Readjust, Your Position
 - Never Underestimate the Challenge
+
 
 Archetype
 ---------

@@ -296,5 +296,12 @@ DocPad
 Filepicker.io
 
 
+Static Site Generator
+---------------------
 
+StaticGen
+
+Jekyll
+WinterSmith
+Assemble.io
 

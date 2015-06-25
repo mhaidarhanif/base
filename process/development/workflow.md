@@ -82,9 +82,11 @@ Hot Code Push | Dark Launching
 Source Code
 -----------
 
-### VCS
+### VCS | SCM | RC
 
 Git
+  git-flow
+  git-annex
 
 ### Connection
 

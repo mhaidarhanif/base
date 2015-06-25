@@ -75,14 +75,11 @@ Support Details
 Chat & Forum
 ------------
 
-### All
-
-HumHub | Igloo | Bitrix24 Cloud
-
 ### Work
 
+Glip
 Slack
-
+  Slackin
 Hubot | Lita
 
 ### Casual
@@ -93,16 +90,22 @@ Telegram
 
 Scrollback | Gitter
 
+### Intranet
+
+HumHub | Igloo | Bitrix24 Cloud
+
 Document & Writing
 ------------------
 
 Penflip
+Draftin
 
 Product/Project Management
 --------------------------
 
 Phabricator
 Targetprocess | LibreBoard / Trello
+Basecamp
 
 Screen Sharing
 --------------

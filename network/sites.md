@@ -27,6 +27,7 @@ Area
 ### Real Life
 
 Name Card
+Sticker
 Poster
 Flyer
 Booklet
@@ -104,6 +105,7 @@ SlideShare
 
 Gumroad
 Generous
+Plasso
 
 ### Social Network
 
@@ -158,6 +160,7 @@ Livestream
 ### Community
 
 Forum
+  Glip
   Slack
 Mailing List
 
@@ -197,8 +200,6 @@ Zagat
 
 Kickstarter
 Indiegogo
-
-StaticGen
 
 ### Book
 
