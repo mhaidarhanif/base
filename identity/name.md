@@ -10,15 +10,14 @@ Partition
 ---------
 
 HAZ: Ability | Experience
-E: Engineering | Electronic
+E: Empower | Engineering
 OR: Organization | Original
 ID: Independent | Identity
 
 Abbreviations
 -------------
 
-Highly Adventurous Zealous Engineering Organization of Revolution in Digital
-Digital Revolutioner
+Hybrid Adaptive Zealous Empowerment Organization for Open Revolution in Dignity
 
 ### H:Adj
 
@@ -29,6 +28,7 @@ Happy
 Harmonious
 Healthy
 Hack
+Hopeful
 
 ### A:Adj
 
@@ -48,6 +48,7 @@ Zany
 
 ### E:N
 
+Empowerment
 Engineering
 Education
 Entertainment
@@ -57,6 +58,7 @@ Economy
 ### O:Adj|N
 
 Of
+for Open
 Organization of
 Optimist of
 Overseer of
@@ -86,8 +88,9 @@ Design
 
 ### Addition
 
+Knowledge
 Technology
-Group | Team
+Group | Team | Organization
 
 Reference
 ---------

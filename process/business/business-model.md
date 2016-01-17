@@ -92,15 +92,15 @@ Color Book
 Method
 ------
 
+PayPal
+Google Wallet
+Amazon Payments
+
 Stripe
 GoCardless
 
 Debit
 Credit
-
-PayPal
-Google Wallet
-Amazon Payments
 
 Bitcoin
 Dogecoin

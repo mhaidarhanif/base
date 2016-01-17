@@ -252,6 +252,7 @@ MapBox
 Leaflet
 
 The Android Arsenal
+Branch Metrics
 
 Delivery
 --------
@@ -265,7 +266,7 @@ Codacy | PullReview
 
 ### Continuous Integration/Delivery/Deployment
 
-All: Codeship | drone | Travis CI | Shippable
+All: Codeship | drone | Circle CI | Travis CI | Shippable
 Mobile: Ship.io
 Deploy: Wercker | Magnum CI
 
@@ -465,6 +466,10 @@ llpd
 Security
 --------
 
+### Authentication
+
+Clef
+
 ### Captcha
 
 visualCaptcha
@@ -544,11 +549,17 @@ Form/Survey
 Typeform
 Qzzr
 
+Disqus
+  Echochamber.js
+
 
 Payment
 -------
 
+### Card
+
 Stripe
+Tinypass
 
 ### Bitcoin
 

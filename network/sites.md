@@ -84,6 +84,7 @@ npm
   cnpmjs
 Jeet
 PyPi
+Libraries.io
 
 JSDB.io
 
@@ -102,7 +103,11 @@ PDF
 
 SpeakerDeck
 SlideShare
+Slidely
 
+### Sell/Store
+
+Piano
 Gumroad
 Generous
 Plasso
@@ -134,6 +139,7 @@ LinkedIn [!]
   Publishing
 SkillPages
 Startup Ranking [!]
+Clarity.fm
 
 Behance
 Dribbble
@@ -191,6 +197,8 @@ AlternativesTo
 Bitnami
 Sandstorm
 
+Founded in X
+  Founded in Indonesia
 StarterPad
 PitchClear
 Launching Next

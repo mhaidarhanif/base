@@ -21,6 +21,11 @@ Streamline
 8. Marketing
 9. Support
 
+Reading
+-------
+
+[Startupkit](http://startupkit.io)
+
 Application
 -----------
 

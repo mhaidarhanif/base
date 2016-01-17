@@ -27,6 +27,14 @@ iPhone
 Android Tablet
 iPad
 
+Editor
+------
+
+LibreOffice
+
+Hemingway Editor
+Grammarly
+
 Access
 ------
 
@@ -46,6 +54,10 @@ Sqwiggle
 Front
 
 MadEye
+
+### Conversion
+
+Hello Bar
 
 ### Customer/Support/CRM/ERP/PIM
 
@@ -78,6 +90,7 @@ Chat & Forum
 ### Work
 
 Glip
+Fleep
 Slack
   Slackin
 Hubot | Lita
@@ -94,11 +107,21 @@ Scrollback | Gitter
 
 HumHub | Igloo | Bitrix24 Cloud
 
+Time & Calendar
+---------------
+
+AddThisEvent
+
 Document & Writing
 ------------------
 
 Penflip
 Draftin
+
+Progress & Reporting
+--------------------
+
+Weekdone | Cove | Perdoo
 
 Product/Project Management
 --------------------------

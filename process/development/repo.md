@@ -194,7 +194,7 @@ Version
   Packagist
 
 Development
-  Coveralls
+  Codecov | Coveralls
   Codeclimate
   wercker
   Landscape
@@ -238,7 +238,6 @@ Code
 
 Extra
   Code Climate
-  Coveralls
   Gemfury/RubyGems
   Gemnasium
   Read the Docs

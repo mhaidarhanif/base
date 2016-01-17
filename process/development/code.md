@@ -224,6 +224,7 @@ Meteor
   Demeteorizer
   Velocity
   Kadira
+  Astronomer
 DerbyJS
 MEAN
 WAMP/Autobahn/Crossbar.io
