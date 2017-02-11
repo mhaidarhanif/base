@@ -107,8 +107,9 @@ Slidely
 
 ### Sell/Store
 
-Piano
 Gumroad
+Piano.io
+Tinypass
 Generous
 Plasso
 
